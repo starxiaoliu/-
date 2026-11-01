@@ -1,0 +1,440 @@
+[
+  {
+    "code": "prd-000",
+    "label": "候选易错标签（可多选",
+    "module": "模块 / 二级题型",
+    "subtype": ""
+  },
+  {
+    "code": "prd-001",
+    "label": "可自定义）",
+    "module": "模块 / 二级题型",
+    "subtype": ""
+  },
+  {
+    "code": "prd-002",
+    "label": "哲学原理混淆",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-003",
+    "label": "政策表述记忆不准",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-004",
+    "label": "时间 / 主体混淆",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-005",
+    "label": "绝对化表述误判",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-006",
+    "label": "组合项逐条判断遗漏",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-007",
+    "label": "材料关键词未对应",
+    "module": "政治理论",
+    "subtype": ""
+  },
+  {
+    "code": "prd-008",
+    "label": "法律概念混淆",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-009",
+    "label": "主体 / 权限判断错误",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-010",
+    "label": "法条适用不清",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-011",
+    "label": "程序与实体混淆",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-012",
+    "label": "例外情形忽视",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-013",
+    "label": "题干问法看反",
+    "module": "常识判断",
+    "subtype": "法律"
+  },
+  {
+    "code": "prd-014",
+    "label": "基础知识盲区",
+    "module": "常识判断",
+    "subtype": "科技 / 人文 / 地理等"
+  },
+  {
+    "code": "prd-015",
+    "label": "概念记错",
+    "module": "常识判断",
+    "subtype": "科技 / 人文 / 地理等"
+  },
+  {
+    "code": "prd-016",
+    "label": "相似知识混淆",
+    "module": "常识判断",
+    "subtype": "科技 / 人文 / 地理等"
+  },
+  {
+    "code": "prd-017",
+    "label": "时间地点记忆不准",
+    "module": "常识判断",
+    "subtype": "科技 / 人文 / 地理等"
+  },
+  {
+    "code": "prd-018",
+    "label": "以常识感觉代替判断",
+    "module": "常识判断",
+    "subtype": "科技 / 人文 / 地理等"
+  },
+  {
+    "code": "prd-019",
+    "label": "词义侧重点混淆",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-020",
+    "label": "固定搭配错误",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-021",
+    "label": "语境逻辑未识别",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-022",
+    "label": "感情色彩不符",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-023",
+    "label": "对应关系遗漏",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-024",
+    "label": "近义词辨析不清",
+    "module": "言语",
+    "subtype": "逻辑填空"
+  },
+  {
+    "code": "prd-025",
+    "label": "主旨句定位错误",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-026",
+    "label": "转折 / 因果关系遗漏",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-027",
+    "label": "主题词偏离",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-028",
+    "label": "过度推断",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-029",
+    "label": "无中生有",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-030",
+    "label": "选项扩大 / 缩小范围",
+    "module": "言语",
+    "subtype": "片段阅读"
+  },
+  {
+    "code": "prd-031",
+    "label": "首尾句识别不当",
+    "module": "言语",
+    "subtype": "语句排序 / 衔接"
+  },
+  {
+    "code": "prd-032",
+    "label": "关联词线索遗漏",
+    "module": "言语",
+    "subtype": "语句排序 / 衔接"
+  },
+  {
+    "code": "prd-033",
+    "label": "代词指代混淆",
+    "module": "言语",
+    "subtype": "语句排序 / 衔接"
+  },
+  {
+    "code": "prd-034",
+    "label": "话题一致性忽视",
+    "module": "言语",
+    "subtype": "语句排序 / 衔接"
+  },
+  {
+    "code": "prd-035",
+    "label": "逻辑顺序错误",
+    "module": "言语",
+    "subtype": "语句排序 / 衔接"
+  },
+  {
+    "code": "prd-036",
+    "label": "题型识别错误",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-037",
+    "label": "建模列式错误",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-038",
+    "label": "条件遗漏",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-039",
+    "label": "分类讨论不完整",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-040",
+    "label": "计算出错",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-041",
+    "label": "未采用代入 / 排除",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-042",
+    "label": "用时过长未取舍",
+    "module": "数量关系",
+    "subtype": ""
+  },
+  {
+    "code": "prd-043",
+    "label": "观察方向错误",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-044",
+    "label": "位置 / 旋转规律遗漏",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-045",
+    "label": "数量规律遗漏",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-046",
+    "label": "属性规律遗漏",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-047",
+    "label": "样式叠加遗漏",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-048",
+    "label": "空间折叠失误",
+    "module": "判断",
+    "subtype": "图形推理"
+  },
+  {
+    "code": "prd-049",
+    "label": "定义主体忽视",
+    "module": "判断",
+    "subtype": "定义判断"
+  },
+  {
+    "code": "prd-050",
+    "label": "限定条件遗漏",
+    "module": "判断",
+    "subtype": "定义判断"
+  },
+  {
+    "code": "prd-051",
+    "label": "必要条件混淆",
+    "module": "判断",
+    "subtype": "定义判断"
+  },
+  {
+    "code": "prd-052",
+    "label": "题干否定问法看反",
+    "module": "判断",
+    "subtype": "定义判断"
+  },
+  {
+    "code": "prd-053",
+    "label": "选项关键信息未核对",
+    "module": "判断",
+    "subtype": "定义判断"
+  },
+  {
+    "code": "prd-054",
+    "label": "一级关系误判",
+    "module": "判断",
+    "subtype": "类比推理"
+  },
+  {
+    "code": "prd-055",
+    "label": "二级关系未比较",
+    "module": "判断",
+    "subtype": "类比推理"
+  },
+  {
+    "code": "prd-056",
+    "label": "逻辑关系过度泛化",
+    "module": "判断",
+    "subtype": "类比推理"
+  },
+  {
+    "code": "prd-057",
+    "label": "词义 / 常识干扰",
+    "module": "判断",
+    "subtype": "类比推理"
+  },
+  {
+    "code": "prd-058",
+    "label": "选项排除不彻底",
+    "module": "判断",
+    "subtype": "类比推理"
+  },
+  {
+    "code": "prd-059",
+    "label": "论点论据混淆",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-060",
+    "label": "加强削弱方向搞反",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-061",
+    "label": "因果关系误判",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-062",
+    "label": "条件推理错误",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-063",
+    "label": "必要 / 充分条件混淆",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-064",
+    "label": "真假推理漏情况",
+    "module": "判断",
+    "subtype": "逻辑判断"
+  },
+  {
+    "code": "prd-065",
+    "label": "现期 / 基期混淆",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-066",
+    "label": "增长率 / 增长量误用",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-067",
+    "label": "比重 / 平均数公式错误",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-068",
+    "label": "数据定位错误",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-069",
+    "label": "单位换算错误",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-070",
+    "label": "估算精度不当",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-071",
+    "label": "计算粗心",
+    "module": "资料分析",
+    "subtype": ""
+  },
+  {
+    "code": "prd-072",
+    "label": "时间分配不当",
+    "module": "资料分析",
+    "subtype": ""
+  }
+]

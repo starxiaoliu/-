@@ -1,0 +1,110 @@
+{
+  "sample_filename": "2027年国考第四十季行测模考大赛（行政执法类）.pdf",
+  "page_count": 40,
+  "question_count": 130,
+  "answered_with_key": 130,
+  "correct_count": 93,
+  "wrong_count": 37,
+  "accuracy_percent": 71.54,
+  "modules": [
+    {
+      "name": "政治理论",
+      "start": 1,
+      "end": 20,
+      "total": 20,
+      "correct": 17
+    },
+    {
+      "name": "常识判断",
+      "start": 21,
+      "end": 35,
+      "total": 15,
+      "correct": 4
+    },
+    {
+      "name": "言语理解与表达",
+      "start": 36,
+      "end": 65,
+      "total": 30,
+      "correct": 24
+    },
+    {
+      "name": "数量关系",
+      "start": 66,
+      "end": 75,
+      "total": 10,
+      "correct": 5
+    },
+    {
+      "name": "判断推理",
+      "start": 76,
+      "end": 110,
+      "total": 35,
+      "correct": 26
+    },
+    {
+      "name": "资料分析",
+      "start": 111,
+      "end": 130,
+      "total": 20,
+      "correct": 17
+    }
+  ],
+  "question_spot_checks": [
+    {
+      "number": 1,
+      "page_start": 2,
+      "correct_answer": "B",
+      "user_answer": "B"
+    },
+    {
+      "number": 7,
+      "page_start": 3,
+      "correct_answer": "A",
+      "user_answer": "D"
+    },
+    {
+      "number": 21,
+      "page_start": 8,
+      "correct_answer": "B",
+      "user_answer": "A"
+    },
+    {
+      "number": 36,
+      "page_start": 11,
+      "correct_answer": "C",
+      "user_answer": "C"
+    },
+    {
+      "number": 41,
+      "page_start": 12,
+      "correct_answer": "A",
+      "user_answer": "D"
+    },
+    {
+      "number": 76,
+      "page_start": 23,
+      "correct_answer": "A",
+      "user_answer": "C"
+    },
+    {
+      "number": 81,
+      "page_start": 25,
+      "correct_answer": "D",
+      "user_answer": "B"
+    },
+    {
+      "number": 111,
+      "page_start": 34,
+      "correct_answer": "C",
+      "user_answer": "C"
+    },
+    {
+      "number": 130,
+      "page_start": 39,
+      "page_end": 40,
+      "correct_answer": "D",
+      "user_answer": "A"
+    }
+  ]
+}

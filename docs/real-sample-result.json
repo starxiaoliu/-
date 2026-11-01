@@ -1,0 +1,134 @@
+{
+  "sha256": "896ca6406067e766a823b97dad762f5afe2e7e4d12558642aa2df2e800bf96d9",
+  "pages": 40,
+  "questions": 130,
+  "correct": 84,
+  "wrong": 46,
+  "modules": [
+    {
+      "module": "政治理论",
+      "total": 20,
+      "correct": 10
+    },
+    {
+      "module": "常识判断",
+      "total": 15,
+      "correct": 7
+    },
+    {
+      "module": "言语理解与表达",
+      "total": 30,
+      "correct": 19
+    },
+    {
+      "module": "数量关系",
+      "total": 10,
+      "correct": 3
+    },
+    {
+      "module": "判断推理",
+      "total": 35,
+      "correct": 27
+    },
+    {
+      "module": "资料分析",
+      "total": 20,
+      "correct": 18
+    }
+  ],
+  "spot_checks": [
+    {
+      "number": 1,
+      "page_start": 2,
+      "correct_answer": "B",
+      "user_answer": "B"
+    },
+    {
+      "number": 7,
+      "page_start": 3,
+      "correct_answer": "A",
+      "user_answer": "B"
+    },
+    {
+      "number": 21,
+      "page_start": 8,
+      "correct_answer": "B",
+      "user_answer": "B"
+    },
+    {
+      "number": 36,
+      "page_start": 11,
+      "correct_answer": "C",
+      "user_answer": "D"
+    },
+    {
+      "number": 41,
+      "page_start": 12,
+      "correct_answer": "A",
+      "user_answer": "A"
+    },
+    {
+      "number": 76,
+      "page_start": 23,
+      "correct_answer": "A",
+      "user_answer": "A"
+    },
+    {
+      "number": 81,
+      "page_start": 25,
+      "correct_answer": "D",
+      "user_answer": "D"
+    },
+    {
+      "number": 111,
+      "page_start": 34,
+      "correct_answer": "C",
+      "user_answer": "C"
+    },
+    {
+      "number": 130,
+      "page_start": 39,
+      "page_end": 40,
+      "correct_answer": "D",
+      "user_answer": "A"
+    }
+  ],
+  "baseline_mismatches": [
+    {
+      "number": 7,
+      "field": "user_answer",
+      "prd": "D",
+      "pdf": "B"
+    },
+    {
+      "number": 21,
+      "field": "user_answer",
+      "prd": "A",
+      "pdf": "B"
+    },
+    {
+      "number": 36,
+      "field": "user_answer",
+      "prd": "C",
+      "pdf": "D"
+    },
+    {
+      "number": 41,
+      "field": "user_answer",
+      "prd": "D",
+      "pdf": "A"
+    },
+    {
+      "number": 76,
+      "field": "user_answer",
+      "prd": "C",
+      "pdf": "A"
+    },
+    {
+      "number": 81,
+      "field": "user_answer",
+      "prd": "B",
+      "pdf": "D"
+    }
+  ]
+}
